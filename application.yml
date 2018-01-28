@@ -28,7 +28,12 @@ words: reasonable,leaky,suspicious,ordinary,unlikely
 ---
 spring:
   profiles: noun
-words: boat,book,vote,seat,backpack,partition,groundhog  
+words: boat,book,vote,seat,backpack,partition,groundhog
+
+---
+spring:
+  profiles: cold-noun
+words: icicle,refrigerator,blizzard,snowball
 
 ##http://eureka-primary:8011/eureka,http://eureka-secondary:8012/eureka,http://eureka-tertiary:8013/eureka,      
       
