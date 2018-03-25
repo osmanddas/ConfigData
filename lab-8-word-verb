@@ -9,6 +9,6 @@ eureka:
 ---
 spring:
   profiles: verb
-wordConfig:  
-  words: ran,knew,had,saw,bought
+#wordConfig:  
+words: ran,knew,had,saw,bought
 
