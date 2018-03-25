@@ -12,6 +12,6 @@ spring:
   #application:
     #name: lab-8-word-verb
 #wordConfig:  
-words: ran,knew,had,saw,bought
-#words: typed,made,broke,constructed,stacked
+#words: ran,knew,had,saw,bought
+words: typed,made,broke,constructed,stacked
 
