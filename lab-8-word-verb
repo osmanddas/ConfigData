@@ -10,5 +10,6 @@ eureka:
 spring:
   profiles: verb
 #wordConfig:  
-words: ran,knew,had,saw,bought
+#words: ran,knew,had,saw,bought
+words: typed,made,broke,constructed,stacked
 
