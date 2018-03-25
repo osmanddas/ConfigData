@@ -7,30 +7,6 @@ eureka:
       
 ---
 spring:
-  profiles: subject
-wordConfig:  
-  words: I,You,He,She,It
-
----
-spring:
-  profiles: verb
-wordConfig:  
-  words: ran,knew,had,saw,bought
-
----
-spring:
-  profiles: article
-wordConfig:  
-  words: a,the
-
----
-spring:
-  profiles: adjective
-wordConfig:  
-  words: reasonable,leaky,suspicious,ordinary,unlikely
-
----
-spring:
   profiles: noun
 wordConfig:  
   words: boat,book,vote,seat,backpack,partition,groundhog
@@ -40,6 +16,4 @@ spring:
   profiles: cold-noun
 wordConfig:  
   words: icicle,refrigerator,blizzard,snowball
-
-##http://eureka-primary:8011/eureka,http://eureka-secondary:8012/eureka,http://eureka-tertiary:8013/eureka,      
-      
+  
